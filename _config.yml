@@ -1,6 +1,6 @@
 title: Victor Hugo Brandao
 description: Portfolio showcasing my education, work experience, and projects.
-#logo:
+logo: /assets/img/profile-modified.png
 #text:
 #show_downloads: true
 theme: jekyll-theme-minimal
