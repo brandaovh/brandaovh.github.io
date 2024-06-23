@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # UNDER CONSTRUCTION
 
 # Portfolio of [Your Name]
