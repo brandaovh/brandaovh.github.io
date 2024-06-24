@@ -24,7 +24,7 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   - Automated deployment with GitHub Actions
   - User registration and authentication system
 - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
-- **Live Web App**: [https://victordotnetsql.azurewebsites.net/](https://victordotnetsql.azurewebsites.net/)
+- **Live Web App**: [Link to web app](https://victordotnetsql.azurewebsites.net/)
 
 
 ### Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto
