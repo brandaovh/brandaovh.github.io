@@ -14,7 +14,7 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ## Projects
 
-### C# and SQL Web Application Project
+### Database Authorization Web Application Project (C#, SQL)
 **Description**: This web application showcases the integration of ASP.NET Core web app with user data protected by authorization that interacts with an Azure SQL Database for CRUD operations, using role-based authorization for data protection.
 
 - **Technologies used**: ASP.NET Core, C#, Azure Web App, Azure SQL Database, GitHub, GitHub Actions, Visual Studio Code
@@ -23,7 +23,9 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   - Role-based authorization with different access levels (User, Manager, Admin)
   - Automated deployment with GitHub Actions
   - User registration and authentication system
-  - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
+- **Live Web App**: [https://victordotnetsql.azurewebsites.net/](https://victordotnetsql.azurewebsites.net/)
+
 
 ### Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto
 **Description**: This project involves a comprehensive dataset exploration of Airbnb listings in Toronto, focusing on descriptive and inferential statistical analysis using MS Excel.
