@@ -23,7 +23,7 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   - Role-based authorization with different access levels (User, Manager, Admin)
   - Automated deployment with GitHub Actions
   - User registration and authentication system
-  - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/ASPNET-Core-Auth-SQLDB)
+  - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
 
 ### Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto
 **Description**: This project involves a comprehensive dataset exploration of Airbnb listings in Toronto, focusing on descriptive and inferential statistical analysis using MS Excel.
