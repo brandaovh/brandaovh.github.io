@@ -21,8 +21,15 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 **Description**: This web application showcases the integration of ASP.NET Core web app with user data protected by authorization that interacts with an Azure SQL Database for CRUD operations, using role-based authorization for data protection.
 
-- **Technologies used**: ASP.NET Core, C#, Azure Web App, Azure SQL Database, GitHub, GitHub Actions, Visual Studio Code
-- **Key Features**:
+**Technologies used**
+- ASP.NET Core
+- C#
+- Azure Web App
+- Azure SQL Database
+- GitHub Actions
+- Visual Studio Code
+
+**Key Features**
   - CRUD operations on Azure SQL Database
   - Role-based authorization with different access levels (User, Manager, Admin)
   - Automated deployment with GitHub Actions
@@ -35,8 +42,12 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 **Description**: This project involves a comprehensive dataset exploration of Airbnb listings in Toronto, focusing on descriptive and inferential statistical analysis using MS Excel.
 
-- **Technologies used**: Microsoft Excel, Pivot tables, Excel Data Analysis Toolpak
-- **Key Features**:
+**Technologies used**
+- Microsoft Excel
+- Pivot tables
+- Excel Data Analysis Toolpak
+
+**Key Features**
   - Data cleaning and coding
   - Analysis of outliers, ranges, limitations, and assumptions
   - Univariate descriptive statistics
@@ -45,13 +56,19 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ### Movie Data Visualization Project
 
-- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/imdb-data-visualization-webapp)
-- **Online Visualizations on Render**: [IMDB App Visualization](https://imdb-app-6o3o.onrender.com) (It might take a few minutes to load)
+- **GitHub Repository**: [Link to repository](URL)
+- **Live Web App**: [IMDB App Visualization](https://imdb-app-6o3o.onrender.com)
 
-**Description**: This project involves fetching data from an API, storing it in MongoDB, visualizing the data using Dash, and deploying it on a live web application using Render.
+**Description**: This project involves fetching data from an API, storing it in MongoDB, visualizing the data using Dash, and processing it with Render.
 
-- **Technologies used**: Jupyter Notebook, MongoDB, Dash, Plotly, Render, GitHub
-- **Key Features**:
+**Technologies used**
+- Jupyter Notebook
+- MongoDB
+- Dash
+- Plotly
+- Render
+
+**Key Features**
   - Data fetching from a live API from IMDB
   - Data storage in MongoDB
   - Interactive data visualization with Dash and Plotly
