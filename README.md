@@ -6,31 +6,10 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ## Skills
 
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-  
-- **Data Visualization**: 
-  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=Matplotlib&logoColor=black)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-ffffff?logo=Seaborn&logoColor=black)
-  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-  
-- **Machine Learning**: 
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
-  
-- **Tools & Technologies**: 
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
-  ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoft-sql-server&logoColor=white)
-  ![MS Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white)
+- **Programming Languages**: Python, C#, SQL
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Tools & Technologies**: AWS, Google Cloud, Azure, Git, Jupyter Notebook, SSMS, MS Excel
 
 ## Projects
 
