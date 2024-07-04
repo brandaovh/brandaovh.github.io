@@ -15,6 +15,10 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ## Projects
 
 ### Database Authorization Web Application Project (C#, SQL)
+
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
+- **Live Web App**: [Link to web app](https://victordotnetsql.azurewebsites.net/)
+
 **Description**: This web application showcases the integration of ASP.NET Core web app with user data protected by authorization that interacts with an Azure SQL Database for CRUD operations, using role-based authorization for data protection.
 
 - **Technologies used**: ASP.NET Core, C#, Azure Web App, Azure SQL Database, GitHub, GitHub Actions, Visual Studio Code
@@ -23,11 +27,12 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   - Role-based authorization with different access levels (User, Manager, Admin)
   - Automated deployment with GitHub Actions
   - User registration and authentication system
-- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/aspnet-core-auth-sqldb)
-- **Live Web App**: [Link to web app](https://victordotnetsql.azurewebsites.net/)
 
 
 ### Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto
+
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/excel-dataset-exploration)
+
 **Description**: This project involves a comprehensive dataset exploration of Airbnb listings in Toronto, focusing on descriptive and inferential statistical analysis using MS Excel.
 
 - **Technologies used**: Microsoft Excel, Pivot tables, Excel Data Analysis Toolpak
@@ -37,14 +42,22 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   - Univariate descriptive statistics
   - Inferential statistics: Risk Ratio/Odds Ratio, Chi-Square Test, ANOVA
   - Correlation and regression analysis
-- **GitHub Repository**: [Link to repository](URL)
 
-### [Project Title]
-**Description**: Brief description of the project and its objectives.
+### Movie Data Visualization Project
 
-- **Technologies used**: Python, Pandas, Matplotlib, etc.
-- **Key Features**: Explain key features and functionalities.
-- **GitHub Repository**: [Link to repository](URL)
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/imdb-data-visualization-webapp)
+- **Online Visualizations on Render**: [IMDB App Visualization](https://imdb-app-6o3o.onrender.com) (It might take a few minutes to load)
+
+**Description**: This project involves fetching data from an API, storing it in MongoDB, visualizing the data using Dash, and deploying it on a live web application using Render.
+
+- **Technologies used**: Jupyter Notebook, MongoDB, Dash, Plotly, Render, GitHub
+- **Key Features**:
+  - Data fetching from a live API from IMDB
+  - Data storage in MongoDB
+  - Interactive data visualization with Dash and Plotly
+  - Deployment on Render
+  - Code hosting and version control using GitHub
+
 
 ## Education
 
