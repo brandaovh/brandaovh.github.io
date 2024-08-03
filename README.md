@@ -1,6 +1,6 @@
 # UNDER CONSTRUCTION
 
-# Portfolio of [Your Name]
+# Portfolio of Victor Hugo Brandao
 
 Welcome to my portfolio! I am a Data Analyst with expertise in data visualization, statistical analysis, and machine learning. Here you can find information about my education, work experience, and projects.
 
@@ -58,7 +58,7 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
   ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 
-- **GitHub Repository**: [Link to repository](URL)
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/imdb-data-visualization-webapp)
 - **Live Web App**: [IMDB App Visualization](https://imdb-app-6o3o.onrender.com)
 
 **Description**: This project involves fetching data from an API, storing it in MongoDB, visualizing the data using Dash, and processing it with Render.
