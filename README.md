@@ -79,6 +79,6 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn]((https://www.linkedin.com/in/brandaovh/) or [Email](mailto:brandaovh@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/brandaovh/) or [Email](mailto:brandaovh@gmail.com).
 
 Thank you for visiting my portfolio!
