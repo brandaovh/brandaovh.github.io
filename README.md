@@ -72,8 +72,8 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ## Education
 
-### [Degree Title]
-**[University Name]** | [Year - Year]
+### Big Data Analytics - Post-graduate Certificate
+**Georgian College** | [01/2024 - 08/2024]
 
 - Description of coursework, major achievements, and relevant activities.
 - Key courses: Data Science, Machine Learning, Statistics, etc.
@@ -81,27 +81,10 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ### [Degree Title]
 **[University Name]** | [Year - Year]
 
-- Description of coursework, major achievements, and relevant activities.
-- Key courses: Data Science, Machine Learning, Statistics, etc.
-
-## Work Experience
-
-### [Job Title]
-**[Company Name]** | [Year - Year]
-
-- Brief description of your role and responsibilities.
-- Key achievements and projects.
-- Technologies and tools used: Python, SQL, Tableau, etc.
-
-### [Job Title]
-**[Company Name]** | [Year - Year]
-
-- Brief description of your role and responsibilities.
-- Key achievements and projects.
-- Technologies and tools used: Python, SQL, Tableau, etc.
+- Key courses: 	Data System Architecture, Mathematics for Data Analytics, Cloud Based Data Engineering, Applied Machine Learning
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](Your LinkedIn URL) or [Email](mailto:YourEmail@example.com).
+Feel free to reach out to me via [LinkedIn]((https://www.linkedin.com/in/brandaovh/) or [Email](mailto:brandaovh@gmail.com).
 
 Thank you for visiting my portfolio!
