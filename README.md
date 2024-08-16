@@ -75,12 +75,6 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ### Big Data Analytics - Post-graduate Certificate
 **Georgian College** | [01/2024 - 08/2024]
 
-- Description of coursework, major achievements, and relevant activities.
-- Key courses: Data Science, Machine Learning, Statistics, etc.
-
-### [Degree Title]
-**[University Name]** | [Year - Year]
-
 - Key courses: 	Data System Architecture, Mathematics for Data Analytics, Cloud Based Data Engineering, Applied Machine Learning
 
 ## Contact
