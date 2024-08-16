@@ -73,7 +73,7 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ## Education
 
 ### Big Data Analytics - Post-graduate Certificate
-**Georgian College** | [01/2024 - 08/2024]
+**Georgian College** | 01/2024 - 08/2024
 
 - Key courses: 	Data System Architecture, Mathematics for Data Analytics, Cloud Based Data Engineering, Applied Machine Learning
 
