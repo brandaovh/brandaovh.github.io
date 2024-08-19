@@ -13,12 +13,10 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 
 ## Projects
 
-### Table of Contents
-
-1. [Movie Review Sentiment Analysis and Prediction](#movie-review-sentiment-analysis-and-prediction)
-2. [Database Authorization Web Application Project (C#, SQL)](#database-authorization-web-application-project-c-sql)
-3. [Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto](#advanced-dataset-exploration-on-ms-excel---airbnb-listings-in-toronto)
-4. [Movie Data Visualization Project](#movie-data-visualization-project)
+- [Movie Review Sentiment Analysis and Prediction](#movie-review-sentiment-analysis-and-prediction)
+- [Database Authorization Web Application Project (C#, SQL)](#database-authorization-web-application-project-c-sql)
+- [Advanced Dataset Exploration on MS Excel - Airbnb Listings in Toronto](#advanced-dataset-exploration-on-ms-excel---airbnb-listings-in-toronto)
+- [Movie Data Visualization Project](#movie-data-visualization-project)
 
 ### Movie Review Sentiment Analysis and Prediction
 
@@ -29,9 +27,10 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/movie-sentiment-prediction)
 - **Description**: This project involved analyzing movie reviews by combining a primary dataset from data.world with review data extracted from IMDb using the Cinemagoer API. The goal was to perform sentiment analysis and predict review scores using various machine learning models.
 - **Key Features**:
-  - **Data Collection**: Utilized techniques such as Batch Processing, Parallel Thread Processing, and Request Throttling to handle large volumes of data, deal with API rate limit and optimize retrieval.
-  - **Data Processing**: Standardized and pre-processed data using techniques such as tokenization, stopwords removal, and TF-IDF vectorization.
-  - **Predictive Modeling**: Built and evaluated machine learning models including Logistic Regression and various Naive Bayes classifiers for sentiment and review score prediction.
+  - Batch processing, parallel thread processing, and request throttling to bulk fetch data (80k+ reviews) from API.
+  - Tokenization, lemmatization, stopwords removal, and TF-IDF vectorization.
+  - Sentiment Analysis with NLTK.
+  - Implemented Machine Learning models for Logistic Regression and various Naive Bayes classifiers.
 
 ### Database Authorization Web Application Project (C#, SQL)
   
