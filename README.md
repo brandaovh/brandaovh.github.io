@@ -25,23 +25,13 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-3C3C3C?logo=nltk&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![IMDb Cinemagoer API](https://img.shields.io/badge/-IMDb%20Cinemagoer%20API-FF9900?logo=imdb&logoColor=white)
 
 - **GitHub Repository**: [Link to repository](https://github.com/brandaovh/movie-sentiment-prediction)
 - **Description**: This project involved analyzing movie reviews by combining a primary dataset from data.world with review data extracted from IMDb using the Cinemagoer API. The goal was to perform sentiment analysis and predict review scores using various machine learning models.
 - **Key Features**:
-  - **Data Collection**: Combined movie information from a CSV file and review data from IMDb’s Cinemagoer API.
+  - **Data Collection**: Utilized techniques such as Batch Processing, Parallel Thread Processing, and Request Throttling to handle large volumes of data, deal with API rate limit and optimize retrieval.
   - **Data Processing**: Standardized and pre-processed data using techniques such as tokenization, stopwords removal, and TF-IDF vectorization.
   - **Predictive Modeling**: Built and evaluated machine learning models including Logistic Regression and various Naive Bayes classifiers for sentiment and review score prediction.
-- **Technologies Used**:
-  - **Python**: Programming language used for data analysis and modeling.
-  - **Pandas**: Data manipulation and cleaning.
-  - **NLTK**: Natural Language Processing for text analysis.
-  - **Scikit-Learn**: Machine learning algorithms and model evaluation.
-  - **IMDb Cinemagoer API**: Data collection from IMDb.
-- **Results and Insights**:
-  - Achieved a 91% accuracy in predicting sentiment labels and an 89% accuracy in predicting review scores with Logistic Regression.
-  - Explored the limitations and performance of different machine learning models.
 
 ### Database Authorization Web Application Project (C#, SQL)
   
