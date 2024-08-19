@@ -83,50 +83,18 @@ Welcome to my portfolio! I am a Data Analyst with expertise in data visualizatio
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 
-- **GitHub Repository**: [Link to repository](URL)
-- **Live Web App**: [IMDB App Visualization](https://imdb-app-6o3o.onrender.com)
-
-**Description**: This project involves fetching data from an API, storing it in MongoDB, visualizing the data using Dash, and processing it with Render.
-
-**Key Features**:
-  - Data fetching from a live API from IMDB
-  - Data storage in MongoDB
-  - Interactive data visualization with Dash and Plotly
+- **GitHub Repository**: [Link to repository](https://github.com/brandaovh/imdb-data-visualization-webapp)
+- **Live Web App**: [IMDb Data Visualization*](https://imdb-dash-visualization.render.com/)
+- **Description**: A dynamic web application for visualizing movie data from MongoDB using Plotly Dash, featuring real-time data updates and interactive visualizations.
+- **Key Features**:
+  - Dynamic data visualizations
+  - Real-time updates and user interactions
   - Deployment on Render
-  - Code hosting and version control using GitHub
 
-## Education
-
-### [Degree Title]
-**[University Name]** | [Year - Year]
-
-- Description of coursework, major achievements, and relevant activities.
-- Key courses: Data Science, Machine Learning, Statistics, etc.
-
-### [Degree Title]
-**[University Name]** | [Year - Year]
-
-- Description of coursework, major achievements, and relevant activities.
-- Key courses: Data Science, Machine Learning, Statistics, etc.
-
-## Work Experience
-
-### [Job Title]
-**[Company Name]** | [Year - Year]
-
-- Brief description of your role and responsibilities.
-- Key achievements and projects.
-- Technologies and tools used: Python, SQL, Tableau, etc.
-
-### [Job Title]
-**[Company Name]** | [Year - Year]
-
-- Brief description of your role and responsibilities.
-- Key achievements and projects.
-- Technologies and tools used: Python, SQL, Tableau, etc.
+* Note: the IMDb Data Visualization web application may take a few minutes to render, as it is hosted under the free plan of Render.
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](Your LinkedIn URL) or [Email](mailto:YourEmail@example.com).
-
-Thank you for visiting my portfolio!
+Feel free to reach out if you have any questions or would like to connect:
+- Email: [brandaovh@gmail.com](mailto:brandaovh@gmail.com)
+- LinkedIn: [linkedin.com/in/brandaovh/](https://www.linkedin.com/in/brandaovh/)
