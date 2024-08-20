@@ -2,7 +2,7 @@
 
 # Portfolio of Victor Hugo Brandao
 
-Hey there, welcome to my portfolio! I am a recent graduate in Big Data Analytics from Georgian College. I'm passionate about data systems engineering, visualization, statistical analysis, and machine learning. Feel free to explore my projects here!
+Hello there! I’m a fresh Big Data Analytics grad from Georgian College, and I’m all about diving into data. I have hands-on experience in building data pipelines, integrating data from various sources (like files, APIs, and web scraping), and managing SQL and NoSQL databases. I’m also  skilled at preparing data for machine learning, fitting it into models, and creating effective visualizations using Python, Power BI, and Tableau. Feel free to explore my projects here!
 
 ## Skills
 
