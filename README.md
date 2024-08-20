@@ -2,7 +2,7 @@
 
 # Portfolio of Victor Hugo Brandao
 
-Welcome to my portfolio! I am a Data Analyst with expertise in data visualization, statistical analysis, and machine learning. Here you can find information about my projects.
+Hey there, welcome to my portfolio! I am a recent graduate in Big Data Analytics from Georgian College. I'm passionate about data systems engineering, visualization, statistical analysis, and machine learning. Feel free to explore my projects here!
 
 ## Skills
 
